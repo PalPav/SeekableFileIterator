@@ -1,2 +1,2 @@
 # SeekableFileIterator
-Seekable file itrator implementation on PHP
+Seekable file iterator implementation on PHP
